@@ -1,4 +1,4 @@
-t#!usr/bin/python3.7
+#!usr/bin/python3.7
 # coding: utf-8
 
 # Terimakasih sudah decode script ini tolong dipake sendiri ea #
