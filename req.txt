@@ -1,0 +1,6 @@
+requests
+mechanize
+bs4
+cookiejar
+clint
+prompt_toolkit
